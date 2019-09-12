@@ -14,7 +14,7 @@ The project assignment PDF (in Italian) can be found [here](Docs/ProvaFinale2019
 
 # How it Works
 
-There are 6 types of functions:
+There are 6 type of functions:
 1. Addent<br/>
 2. Addrel<br/>
 3. Delrel <br/>
