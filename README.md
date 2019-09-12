@@ -32,3 +32,5 @@ The project assignment PDF (in Italian) can be found [here](Docs/ProvaFinale2019
 ### 5. Report
 
 # License
+
+:books: This project is distributed under the terms of the MIT License. See file [LICENSE](LICENSE) for further reference.
