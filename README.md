@@ -1,5 +1,5 @@
 # API Project
-:small_blue_diamond: This is my proposed solution for the final assignment of the API (Algoritmi e Principi dell'Informatica) course that get the max score.
+:small_blue_diamond: This is my proposed solution for the final assignment of the API (Algoritmi e Principi dell'Informatica) course that got the max score.
 
 # Description
 ![alt text](Docs/social-network.jpg?raw=true)
