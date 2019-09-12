@@ -44,12 +44,12 @@ There are 6 types of functions:
 ### 4. Delent:no_pedestrians:
 
 <br/>
-:small_blue_diamond:Delete the entity identified by "id_ent" from the set of monitored entities; Delete all the reports whose "id_ent" does part (both in origin and destination).<br/><br/>
+:small_blue_diamond:Delete the entity identified by "id_ent" from the set of monitored entities; Delete all the relations whose "id_ent" does part (both in origin and destination).<br/><br/>
 
 ### 5. Report:earth_africa:
 
 <br/>
-:small_blue_diamond:It outputs the list of relations, reporting for every relations the entity with the largest number of incoming reports.<br/><br/>
+:small_blue_diamond:It outputs the list of relations, reporting for every relations the entity with the largest number of incoming relations.<br/><br/>
 
 ### 6. End:triangular_flag_on_post:
 
