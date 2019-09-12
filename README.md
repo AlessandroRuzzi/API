@@ -21,15 +21,15 @@ There are 5 types of functions:
 4. Delent <br/>
 5. Report <br/>
 
-### 1. Addent
+### 1. Addent:walking:
 
-### 2. Addrel
+### 2. Addrel:couple:
 
-### 3. Delrel
+### 3. Delrel:put_litter_in_its_place:
 
-### 4. Delent
+### 4. Delent:no_pedestrians:
 
-### 5. Report
+### 5. Report:earth_africa:
 
 # License
 
