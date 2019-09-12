@@ -22,6 +22,8 @@ There are 5 types of functions:
 5. Report <br/>
 
 ### 1. Addent:walking:
+<br/>
+:small_blue_diamond:adds an entity identified by "id_ent" to the set of monitored entities; if the entity is already monitored, it does nothing<br/><br/>
 
 ### 2. Addrel:couple:
 
