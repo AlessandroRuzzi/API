@@ -49,7 +49,7 @@ There are 6 type of functions:
 ### 5. Report:earth_africa:
 
 <br/>
-:small_blue_diamond:It outputs the list of relations, reporting for every relations the entity with the largest number of incoming relations.<br/><br/>
+:small_blue_diamond:It outputs the list of relations, reporting for every relations the entity with the largest number of received relations.<br/><br/>
 
 ### 6. End:triangular_flag_on_post:
 
