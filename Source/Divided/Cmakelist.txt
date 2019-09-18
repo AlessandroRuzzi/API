@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Progetto_Api C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Progetto_Api entity_rb.h entity_rb.c main2.c relations_rb.h relations_rb.c rel.h counter_rb.h counter_rb.c)
